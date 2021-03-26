@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">باتری بان</string>
+    <string name="charging">در حال شارژ</string>
+    <string name="full_charged">شارژ کامل است</string>
+    <string name="not_charging">شارژر متصل نیست</string>
+    <string name="voltage">ولتاژ</string>
+    <string name="temperature">دما</string>
+    <string name="temp_vol">30°C / 3.255V</string>
+    <string name="goal_percent">درصد نهایی 100</string>
+    <string name="goal">درصد نهایی</string>
+    <string name="module_not_connected">ماژول متصل نیست</string>
+    <string name="module_connected">ماژول متصل است</string>
+    <string name="goal_saved">درصد نهایی اعمال شد</string>
+    <string name="sent_on_signal">سیگنال وصل ارسال شد</string>
+    <string name="sent_off_signal">سیگنال قطع ارسال شد</string>
+    <string name="app_is_running">برنامه باتری بان فعال است</string>
+    <string name="app_running_detail">هنگام شارژ، برنامه و ماژول باید فعال باشند</string>
+</resources>
