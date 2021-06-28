@@ -20,5 +20,11 @@ Source of the project is available, just open the `src` folder as a project in A
 ## Author
 **Rabist** - view on [LinkedIn](https://www.linkedin.com/in/rabist)
 
+## Details
+- **Course:** Microprocessor-based Systems - Undergraduate
+- **Teacher:** [Dr. Sayed Alireza Sadrossadat](https://yazd.ac.ir/en/people/sadr)
+- **Univ:** Yazd University
+- **Semester:** Fall 1399
+
 ## License
 Licensed under [MIT](LICENSE).
